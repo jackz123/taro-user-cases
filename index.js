@@ -1,10 +1,10 @@
 const userCases = {
   微信小程序: [
     {
-      name: "DUXUI-UI库",
-      url: "https://raw.githubusercontent.com/ShaoGongBra/duxui/main/weapp.jpg",
+      name: "好伙伴司机",
+      url: "https://raw.githubusercontent.com/jackz123/taro-project/main/gh_0197966a0e19_430%20(1).jpg",
       framework: "react",
-      taroVersion: "3.6.7",
+      taroVersion: "2.2.15",
       screenshot: []
     },
     {
